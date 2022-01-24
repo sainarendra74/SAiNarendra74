@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b>SAi Narendra</b></h1>
 
 ## 🙋‍♂️ About Me
-- 👨‍💻   Software Development Engineer at <a href="https://livo.ai" > <i>Livo</i> </a> 
+- 👨‍💻   Software Development Engineer at <a href="https://livo.ai" > <i> Radoaratory Technologies Pvt. Ltd</i> </a> 
 
 ## 🚀 Languages and Tools:
 
