@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <b>SAi Narendra</b></h1>
 
 ## 🙋‍♂️ About Me
-- 👨‍💻   Senior Software Development Engineer at <a href="https://livo.ai" > <i> Radoaratory Technologies Pvt. Ltd</i> </a> 
+- 👨‍💻   Senior Software Developer at <a href="https://livo.ai" > <i> Radoaratory Technologies Pvt. Ltd</i> </a> 
 
 ## 🚀 Languages and Tools:
 
